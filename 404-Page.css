@@ -43,6 +43,14 @@ h2 {
     color: white;
     text-decoration: none;
     margin-top: 70%;
+    -webkit-transition: color 0.5s;
+    -moz-transition: color 0.5s;
+    -o-transition: color 0.5s;
+    transition: color 0.5s;
+}
+
+.text a:hover {
+ color: paleturquoise;
 }
 
 .dog {

@@ -1,0 +1,50 @@
+body, html {
+    margin:0;
+    padding:0;
+    height: 100%;
+    overflow: hidden;
+    background-color:paleturquoise;
+    display:block;
+}
+
+h1 {
+    font-family: "Chewy", cursive;
+    font-size: 10em;
+    color: #535353;
+    letter-spacing: 0.1em;
+    margin: 0;
+}
+
+h2 {
+    font-family: "Quicksand", sans-serif;
+    font-size: 1.5em;
+    color: #535353;
+    letter-spacing: 1px;
+    margin-bottom: 30px;
+}
+
+.text {
+    width: 70%;
+    margin: auto;
+    text-align: center;  
+}
+
+.text a {
+    background-color: palevioletred;
+    padding: 10px;
+    border-radius: 20px;
+    font-family: "Quicksand", sans-serif;
+    font-size: 1 em;
+    font-weight: bold;
+    color: white;
+    text-decoration: none;
+    margin-top: 70%;
+}
+
+.dog {
+    margin-left:auto;
+    margin-right: auto;
+    height: 70%;
+    
+
+}
